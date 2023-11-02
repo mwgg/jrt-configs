@@ -1,0 +1,110 @@
+@font-face {
+	font-family: "Arial";
+/*	src: url('../displays_fonts/bahnschrift.ttf');*/
+}
+
+/* iRacing Relatives Blackbox */
+body {
+ background: none !important;
+ font-family: "Arial";
+}
+
+#container {
+ overflow-y: hidden !important;
+ right: 0px !important;
+}
+
+page {
+ background: none !important;
+}
+
+#container {
+ border-radius: 0.4em !important;
+ background-color: rgba(0,0,0,0.7) !important;
+}
+
+.ligne {
+ font-size: 80%;
+ /*background-color: rgba(0,0,0,0.7) !important;*/
+ /*background: none !important;*/
+}
+
+.ligne0 {
+ background-color: rgba(0,0,0,0.7) !important;
+ border-top-left-radius: 0.6em !important;
+ border-top-right-radius: 0.6em !important;
+}
+
+.cpos, .ir, .name, .num, .pit, .stint, .pitstalltime { -webkit-filter: none; filter: none; }
+
+.cpos {
+ text-align: center;
+ box-sizing: border-box;
+ font-family: "Arial";
+}
+
+.cgain {
+ font-family: "Arial";
+}
+
+.num {
+ height: 1.5em;
+ line-height: 1.5em;
+ vertical-align: middle;
+ border-radius: 0.25em;
+ font-style: italic;
+ position: relative; top: -0.075em;
+ margin-left: 0.3em;
+ font-family: "Arial";
+}
+
+.ir {
+ font-size: 0.75em;
+ height: 2em;
+ line-height: 2.15em;
+ border-radius: 0.25em;
+ vertical-align: middle;
+ position: relative; top: -0.075em;
+ margin-left: 0.2em;
+ font-family: "Arial";
+}
+
+.track_status {
+	font-size: 0.6rem;
+}
+
+.tires_stints div {
+ font-size: 90% !important;
+}
+
+.name {
+	padding-left: 0;
+	font-size: 0.8rem;
+}
+
+.lic {
+	font-size: 0.7rem;
+	height: 1.1rem;
+	vertical-align: middle;
+	line-height: 1rem;
+	border-radius: 0.25em;
+	opacity: 1;
+}
+
+.rel {
+  text-align: right !important;
+  font-weight: bold !important;
+  line-height: 1rem;
+  font-family: "Arial";
+  font-size: 0.95rem;
+}
+
+#sf_line {
+ background-color: #f00;
+ border: none !important;
+ height: 2px;
+}
+
+#cpos00, #tires_stints00 { filter: none !important; -webkit-filter: none !important; font-family: "Arial"; }
+#cpos00 { color: #f5b326 !important; font-size: 105%; padding-left: 0.5em; font-weight: bold !important; }
+#tires_stints00 { color: white !important; font-size: 65%; text-align: middle; }
