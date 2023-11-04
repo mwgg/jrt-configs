@@ -1,4 +1,4 @@
-# Overlay configs for Joel Real Timing (JRT)
+# Overlay configs for [Joel Real Timing (JRT)](https://joel-real-timing.com/)
 
 These are my personal overlay configs, and are a constant work in progress as I tweak them to better suit my personal needs. Due to the highly configurable nature of JRT, feel free to use them as they are, or as a starting point for your own overlays.
 
