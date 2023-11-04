@@ -31,6 +31,11 @@ You can replace any of the elements with any other relatively easily, if you kno
 
 ![Dashboard](https://raw.githubusercontent.com/mwgg/jrt-configs/master/screenshots/dashboard.png)
 
+### Dashboard Classic
+Similar, but in a different look.
+
+![Dashboard](https://raw.githubusercontent.com/mwgg/jrt-configs/master/screenshots/dashboard_classic.png)
+
 ### Standings
 A relatively compact standings display with just the necessities.
 
